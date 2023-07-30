@@ -4,7 +4,9 @@ h1{
 }
     .pizza{
         background-color: rgb(139, 151, 147);
-        border: 3px solid black;
+        border-left: 3px solid black;
+border-bottom: 3px solid black;
+
         float:left;
         box-sizing:border-box ;
         height: 200px;
